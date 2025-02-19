@@ -10,3 +10,7 @@ Technologies & Skills
 Languages: C, C++, Python  
 Tools: Git, Linux, API Development  
 Libraries & APIs: eBay API
+Focus Areas: Systems programming, automation, backend development
+
+Future Goals  
+I’m currently focused on systems programming, API development, and backend engineering.

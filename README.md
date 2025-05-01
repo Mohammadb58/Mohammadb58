@@ -8,7 +8,7 @@ Currently, I'm developing an eBay Price Tracker that monitors product prices usi
 
 Technologies & Skills  
 Languages: C, C++, Python  
-Tools: Git, Linux, API Development  
+Tools: Git, Linux, API Development, GDB Debugger, Linux/Terminal
 Libraries & APIs: eBay API
 Focus Areas: Systems programming, automation, backend development
 

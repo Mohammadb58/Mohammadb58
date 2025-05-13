@@ -17,6 +17,3 @@ Focus Areas:
 Summer Goals
 - Sharpen low-level programming (Assembly)
 - I’m planning to create more hands-on projects in C++ and Python, especially small games, simulations, and system-level tools to keep building my skills
-
-Future Goals  
-- I’m currently focused on systems programming, API development, and backend engineering.
